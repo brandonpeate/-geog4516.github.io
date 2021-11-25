@@ -12,19 +12,19 @@ Hello! I have spent my undergraduate experience familiarizing myself with urban 
 
 # Work Experience
 ## University of Connecticut (Storrs, CT)
-** Olmsted Federal Work Study** (September 2021 - Present)
+**Olmsted Federal Work Study** (September 2021 - Present)  
 Research position aimed toward studying the history of Olmsted parks in Connecticut.
 - Used UConn's MAGIC Library and Olmsted Online to examine how East Shore Park (New Haven) has developed.
 - Used UConn's MAGIC Library and Olmsted Online to examine how Battery Park Road (Bridgeport) replaced two former Olmsted sites.
 
 ## Green and Blue Foundation (Hartford, CT)
-** Associate Intern** (April 2021 - August 2021)
+**Associate Intern** (April 2021 - August 2021)  
 Worked with community members to make improvements to Hartford's Colt Park neighborhood.
 - Led a project to make Colt Park more walkable with a grant in the amount of **$12,000**.
 - Conducted a walk audit around Dillon Stadium in collaboration with Hartford Complete Streets Task Force.
 
 ## Berlin Social Services (Berlin, CT)
-** Food Pantry Supervisor** (September 2015 - June 2020)
+**Food Pantry Supervisor** (September 2015 - June 2020)  
 Ensured that the organization and distribution of pantry supplies was efficient.
 - Payed attention to specific dietary needs of pantry clients (low sodium, allergies, diabetes, etc).
 - Recruited new volunteers to continue the upkeep of the food pantry.
