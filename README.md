@@ -4,7 +4,7 @@
 brandon.peate@uconn.edu
 https://www.linkedin.com/in/brandon-peate-4abb761a5/
 ## University of Connecticut
-#Program of Study
+Program of Study
 B.A. Double Major in Urban/Community Studies and Geographic Information Systems (GIS)
 GPA: 3.5
 # Summary
